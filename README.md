@@ -18,6 +18,7 @@ Prix account
 Views the stock in read-only mode
 Manages the unit price of each article
 Generates and prints yearly reports per category (outputs, stock situation, and values in DH)
+
 Technologies
 Frontend: React.js
 Backend: Laravel 10 (REST API)
@@ -43,6 +44,7 @@ Compte Prix
 Consulte le stock en lecture seule
 Gère le prix unitaire de chaque article
 Génère et imprime les rapports annuels par catégorie (sorties, situation du stock et montants en DH)
+
 Technologies
 Frontend : React.js
 Backend : Laravel 10 (API REST)
